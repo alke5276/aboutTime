@@ -1,5 +1,3 @@
-# aboutTime README.md
-
 # Game Name: 
 
 "About Time"
