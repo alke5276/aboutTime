@@ -9,3 +9,11 @@ Player navigates a level through rewinding time every time the player jumps. Cur
 # Team Members:
 
 Ali Keller, Perry Owens, Aiden Quaid
+
+# Initial Brainstorming and Process Documentation
+
+Player makes a time clone of themself to do different actions throughout the level. Player can time-jump to assist themself. This creates a time 'clone' that can do half of a task and allow for the current clone to finish the other half of the task. An example of this being that the player starts using one of the clones to press down on a button, then jumping back in time to have the second clone run through the doorway opened by the button. 
+
+Since this is a more single playered game, ijplementing the global high-scoring option would allow for competition between multiple players. 
+
+There may be elemental sections to the map, allowing for fire power ups vs water power ups. These would be used against certain types of elemental enemies. The player woudl only be able to get these power-ups through travelling through the map. These could force certain types of time travel or prevent other types of time travel. An example of this could be that a player has to fight an ice enemy late in the game, but if the player has time travelled ovet the section where he/she receives a fire power up to defeat the ice enemy, the player would be unable to fight the enemy and would have to time travel backwards to find the power-up/weapon. A single cloned player can hold a power-up so it would be almost used as a checkpoint in order to reuse power ups. The player then would weant to make a clone at the point of where the power-up is recieved so that he/she can return to that clone and get the power-up again for future use. 
