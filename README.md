@@ -23,3 +23,6 @@ Documentarian: Ali Keller
 
 # Values and Core Mechanic - 11.02.2020
 
+We are hoping that our game has a sense of replayability at it's core. There would also be a puzzle mechanic especially in using multiple characters to solve different level challenges. This kind of sets a multiplayer teamw effort into a single player puzzle. We want our players to be able to play throught the level at least once having a positive rewarding experience. But we also want the player to want to replay the level to find hidden power-ups. This then aims the game toward the completionist player. 
+
+An idea we had for this was having some sort of 4 elemental themed puzzle pieces that don't have to be collected to complete the level but would remain grayed out on the screen. This would encoruage the player to replay the levels to find these puzzle pieces. 
