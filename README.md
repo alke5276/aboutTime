@@ -21,5 +21,5 @@ There may be elemental sections to the map, allowing for fire power ups vs water
 
 Documentarian: Ali Keller
 
-# Values and Core Mechanic
+# Values and Core Mechanic - 11.02.2020
 
