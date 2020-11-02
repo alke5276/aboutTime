@@ -9,7 +9,7 @@ Player navigates a level through rewinding time every time the player jumps. Cur
 
 # Team Members:
 
-Ali Keller, Perry Owens, Aiden Quaid
+Ali Keller, Perry Owens, Aidan Quade
 
 # Initial Brainstorming and Process Documentation
 
