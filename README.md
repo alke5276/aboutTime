@@ -11,7 +11,7 @@ Player navigates a level through rewinding time every time the player jumps. Cur
 
 Ali Keller, Perry Owens, Aidan Quade
 
-# Initial Brainstorming and Process Documentation
+# Initial Brainstorming and Process Documentation - 10.28.2020
 
 Player makes a time clone of themself to do different actions throughout the level. Player can time-jump to assist themself. This creates a time 'clone' that can do half of a task and allow for the current clone to finish the other half of the task. An example of this being that the player starts using one of the clones to press down on a button, then jumping back in time to have the second clone run through the doorway opened by the button. 
 
@@ -25,4 +25,6 @@ Documentarian: Ali Keller
 
 We are hoping that our game has a sense of replayability at it's core. There would also be a puzzle mechanic especially in using multiple characters to solve different level challenges. This creates a multiplayer team effort experience into a single player puzzle. We want our players to be able to play through the level at least once, having a positive rewarding experience. But we also want the player to want to replay the level to find hidden power-ups and secrets. At the end, the player will be presented with stats like "time taken" and "secrets found" to encourage them to replay the level. This then aims the game toward the completionist player. 
 
-An idea we had for this was having some sort of 4 elemental themed puzzle pieces that don't have to be collected to complete the level but would remain grayed out on the screen. This would encoruage the player to replay the levels to find these puzzle pieces. There would also be three keys throughout the level that must be completed to unlock the final door and beat the level. These would be in each of the three different zones that the player must navigate, and each key will be associated with a special power-up.
+An idea we had for this was having some sort of 4 elemental themed puzzle pieces that don't have to be collected to complete the level but would remain grayed out on the screen. This would encoruage the player to replay the levels to find these puzzle pieces. There would also be three keys throughout the level that must be completed to unlock the final door and beat the level. These would be in each of the three different zones that the player must navigate, and each key will be associated with a special power-up. The core mechanic of the game will allow the player to create a clone of themself that they can then operate. The clone will take all the player's current power-ups, so the player loses access to those power-ups until they merge with their clone again. This will lend itself well to a complex level design, that has multiple paths the player can take to reach their intended destination
+
+Documentarian: Ali Keller + Perry Owens 
