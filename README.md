@@ -1,4 +1,3 @@
-# Final Project - 10.28.2020
 # Game Name: 
 
 "About Time"
@@ -10,21 +9,3 @@ Player navigates a level through rewinding time every time the player jumps. Cur
 # Team Members:
 
 Ali Keller, Perry Owens, Aidan Quade
-
-# Initial Brainstorming and Process Documentation - 10.28.2020
-
-Player makes a time clone of themself to do different actions throughout the level. Player can time-jump to assist themself. This creates a time 'clone' that can do half of a task and allow for the current clone to finish the other half of the task. An example of this being that the player starts using one of the clones to press down on a button, then jumping back in time to have the second clone run through the doorway opened by the button. 
-
-Since this is a more single playered game, implementing the global high-scoring option would allow for competition between multiple players. 
-
-There may be elemental sections to the map, allowing for fire power ups vs water power ups. These would be used against certain types of elemental enemies. The player woudl only be able to get these power-ups through travelling through the map. These could force certain types of time travel or prevent other types of time travel. An example of this could be that a player has to fight an ice enemy late in the game, but if the player has time travelled ovet the section where he/she receives a fire power up to defeat the ice enemy, the player would be unable to fight the enemy and would have to time travel backwards to find the power-up/weapon. A single cloned player can hold a power-up so it would be almost used as a checkpoint in order to reuse power ups. The player then would weant to make a clone at the point of where the power-up is recieved so that he/she can return to that clone and get the power-up again for future use. 
-
-Documentarian: Ali Keller
-
-# Values and Core Mechanic - 11.02.2020
-
-We are hoping that our game has a sense of replayability at it's core. There would also be a puzzle mechanic especially in using multiple characters to solve different level challenges. This creates a multiplayer team effort experience into a single player puzzle. We want our players to be able to play through the level at least once, having a positive rewarding experience. But we also want the player to want to replay the level to find hidden power-ups and secrets. At the end, the player will be presented with stats like "time taken" and "secrets found" to encourage them to replay the level. This then aims the game toward the completionist player. 
-
-An idea we had for this was having some sort of 4 elemental themed puzzle pieces that don't have to be collected to complete the level but would remain grayed out on the screen. This would encoruage the player to replay the levels to find these puzzle pieces. There would also be three keys throughout the level that must be completed to unlock the final door and beat the level. These would be in each of the three different zones that the player must navigate, and each key will be associated with a special power-up. The core mechanic of the game will allow the player to create a clone of themself that they can then operate. The clone will take all the player's current power-ups, so the player loses access to those power-ups until they merge with their clone again. This will lend itself well to a complex level design, that has multiple paths the player can take to reach their intended destination
-
-Documentarian: Ali Keller + Perry Owens 
